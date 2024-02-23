@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>probando</title>
+    <link href="https://isabelalberdi.github.io/PubliiPrueba/feed.xml" rel="self" />
+    <link href="https://isabelalberdi.github.io/PubliiPrueba" />
+    <updated>2024-02-22T20:48:27-03:00</updated>
+    <author>
+        <name>isa</name>
+    </author>
+    <id>https://isabelalberdi.github.io/PubliiPrueba</id>
+
+    <entry>
+        <title>Una segunda página</title>
+        <author>
+            <name>isa</name>
+        </author>
+        <link href="https://isabelalberdi.github.io/PubliiPrueba/una-segunda-pagina.html"/>
+        <id>https://isabelalberdi.github.io/PubliiPrueba/una-segunda-pagina.html</id>
+
+        <updated>2024-02-22T20:48:27-03:00</updated>
+            <summary>
+                <![CDATA[
+                    Con otro tipo de contenido y más pruebas Imagen random de receta Imagen random en B/N
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Con otro tipo de contenido</p>
+<p>y más pruebas</p>
+<div class="gallery-wrapper gallery-wrapper--wide"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://isabelalberdi.github.io/PubliiPrueba/media/posts/2/gallery/WhatsApp-Image-2020-07-01-at-14.41.32.jpeg" data-size="960x1280"><img loading="lazy" src="https://isabelalberdi.github.io/PubliiPrueba/media/posts/2/gallery/WhatsApp-Image-2020-07-01-at-14.41.32-thumbnail.jpeg" alt="Receta" width="720" height="960"></a>
+<figcaption>Imagen random de receta</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://isabelalberdi.github.io/PubliiPrueba/media/posts/2/gallery/unnamed.png" data-size="787x526"><img loading="lazy" src="https://isabelalberdi.github.io/PubliiPrueba/media/posts/2/gallery/unnamed-thumbnail.png" alt="Skitles" width="720" height="481"></a>
+<figcaption>Imagen random en B/N</figcaption>
+</figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Esta página es para probar</title>
+        <author>
+            <name>isa</name>
+        </author>
+        <link href="https://isabelalberdi.github.io/PubliiPrueba/esta-pagina-es-para-probar.html"/>
+        <id>https://isabelalberdi.github.io/PubliiPrueba/esta-pagina-es-para-probar.html</id>
+
+        <updated>2023-09-20T15:39:15-03:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>Cómo quedan las cosas en Publii. Como se edita el contenido y como se presenta. Que tan facil es de editar, sumar y quitar elementos.<br>Cuántas <em>posibilidades</em> de <span style="text-decoration: line-through;">generar</span> estilo propio y control de como se visualizan los <strong>recursos</strong>.</p>
+<p>Cómo se pueden sistematizar los recursos visuales dentro de esta herramienta.😀</p>
+<blockquote>
+<p>probando todas las funciones.</p>
+</blockquote>
+<figure ><figure class="post__image post__image--center"><img loading="lazy"  src="https://isabelalberdi.github.io/PubliiPrueba/media/posts/1/mut_moredrinks_poster_detail-4ac9f212565a4a4c25df225405780a53.jpg" alt="Imagen random" width="800" height="534" sizes="100vw" srcset="https://isabelalberdi.github.io/PubliiPrueba/media/posts/1/responsive/mut_moredrinks_poster_detail-4ac9f212565a4a4c25df225405780a53-xs.jpg 300w ,https://isabelalberdi.github.io/PubliiPrueba/media/posts/1/responsive/mut_moredrinks_poster_detail-4ac9f212565a4a4c25df225405780a53-sm.jpg 480w ,https://isabelalberdi.github.io/PubliiPrueba/media/posts/1/responsive/mut_moredrinks_poster_detail-4ac9f212565a4a4c25df225405780a53-md.jpg 768w ,https://isabelalberdi.github.io/PubliiPrueba/media/posts/1/responsive/mut_moredrinks_poster_detail-4ac9f212565a4a4c25df225405780a53-lg.jpg 1024w ,https://isabelalberdi.github.io/PubliiPrueba/media/posts/1/responsive/mut_moredrinks_poster_detail-4ac9f212565a4a4c25df225405780a53-xl.jpg 1360w ,https://isabelalberdi.github.io/PubliiPrueba/media/posts/1/responsive/mut_moredrinks_poster_detail-4ac9f212565a4a4c25df225405780a53-2xl.jpg 1600w"></figure>
+<figcaption >Epígrafe predeterminado</figcaption>
+</figure>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Cómo quedan las cosas en Publii. Como se edita el contenido y como se presenta. Que tan facil es de editar, sumar y quitar elementos.<br>Cuántas <em>posibilidades</em> de <span style="text-decoration: line-through;">generar</span> estilo propio y control de como se visualizan los <strong>recursos</strong>.</p>
+<p>Cómo se pueden sistematizar los recursos visuales dentro de esta herramienta.😀</p>
+<blockquote>
+<p>probando todas las funciones.</p>
+</blockquote>
+<figure ><figure class="post__image post__image--center"><img loading="lazy"  src="https://isabelalberdi.github.io/PubliiPrueba/media/posts/1/mut_moredrinks_poster_detail-4ac9f212565a4a4c25df225405780a53.jpg" alt="Imagen random" width="800" height="534" sizes="100vw" srcset="https://isabelalberdi.github.io/PubliiPrueba/media/posts/1/responsive/mut_moredrinks_poster_detail-4ac9f212565a4a4c25df225405780a53-xs.jpg 300w ,https://isabelalberdi.github.io/PubliiPrueba/media/posts/1/responsive/mut_moredrinks_poster_detail-4ac9f212565a4a4c25df225405780a53-sm.jpg 480w ,https://isabelalberdi.github.io/PubliiPrueba/media/posts/1/responsive/mut_moredrinks_poster_detail-4ac9f212565a4a4c25df225405780a53-md.jpg 768w ,https://isabelalberdi.github.io/PubliiPrueba/media/posts/1/responsive/mut_moredrinks_poster_detail-4ac9f212565a4a4c25df225405780a53-lg.jpg 1024w ,https://isabelalberdi.github.io/PubliiPrueba/media/posts/1/responsive/mut_moredrinks_poster_detail-4ac9f212565a4a4c25df225405780a53-xl.jpg 1360w ,https://isabelalberdi.github.io/PubliiPrueba/media/posts/1/responsive/mut_moredrinks_poster_detail-4ac9f212565a4a4c25df225405780a53-2xl.jpg 1600w"></figure>
+<figcaption >Epígrafe predeterminado</figcaption>
+</figure>
+
+<p>Espacio de leer más desplegado. Destinado a ampliar el contenido.</p>
+<hr>
+<p><a href="#INTERNAL_LINK#/null/undefined">Tabla de contenido</a></p>
+<p>Items para menú</p>
+<ul style="list-style-type: circle;">
+<li>ítems</li>
+<li>ncasuehf</li>
+<li>nhjufheiuf</li>
+<li> </li>
+</ul>
+            ]]>
+        </content>
+    </entry>
+</feed>
